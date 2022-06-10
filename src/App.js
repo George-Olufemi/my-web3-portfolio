@@ -6,7 +6,7 @@ function App() {
     <React.Fragment>
       <div className='h-screen w-screen overflow-hidden flex-col justify-center relative'>
         <div className="">
-          <Spline scene="https://prod.spline.design/byrJM8w93RVNc-k9/scene.splinecode" />
+        <Spline scene="https://prod.spline.design/AXksBE4DnDLEamD5/scene.splinecode" />
         </div>
       </div>
       <div>hello</div>
